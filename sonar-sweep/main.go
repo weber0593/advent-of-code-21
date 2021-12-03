@@ -1,8 +1,8 @@
 package main
 
 import (
-	"advent-of-code-21/sonar-sweep/pkg/filereader"
-	"advent-of-code-21/sonar-sweep/pkg/ringbuffer"
+	"advent-of-code-21/pkg/filereader"
+	"advent-of-code-21/pkg/ringbuffer"
 	log "github.com/sirupsen/logrus"
 	"strconv"
 )
