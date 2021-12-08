@@ -17,6 +17,8 @@
 # Binaries
 sonar-sweep/sonar-sweep
 dive/dive
+binary-diagnostic/binary-diagnostic
+bingo/bingo
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
